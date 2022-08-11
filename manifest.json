@@ -2,7 +2,7 @@
   "description": "Removes twitter's authentication modal, allowing to browse twitter privately",
   "manifest_version": 2,
   "name": "Remove Twitter Modal",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/sofiyevsr/remove-twitter-modal",
   "icons": {
     "48": "icons/modal.png"

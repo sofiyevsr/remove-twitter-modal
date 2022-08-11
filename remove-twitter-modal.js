@@ -7,5 +7,9 @@ const intervalRef = setInterval(() => {
   if (!dialog) return;
   document.documentElement.style.overflow = "scroll";
   dialog.parentElement.remove();
-  clearInterval(intervalRef);
+  /**
+   * When twitter changes url
+   * modal state resets, meaning modal shown on each new page
+   * so interval shouldn't be cleared
+   **/
 }, interval);

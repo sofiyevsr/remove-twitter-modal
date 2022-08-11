@@ -8,3 +8,5 @@ This extension just includes:
   under "twitter.com/" or any of its subdomains
 
 This addon removes modal that appears after scrolling on twitter without authentication and also re-enables overflow: scroll on document
+
+https://addons.mozilla.org/en-US/firefox/addon/remove-twitter-auth-modal
